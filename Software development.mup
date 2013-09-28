@@ -1,0 +1,611 @@
+{
+  "title": "Software development",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "42": {
+      "title": "Analysis",
+      "id": 17,
+      "ideas": {
+        "1": {
+          "title": "Visualisation",
+          "id": 18
+        }
+      }
+    },
+    "-13": {
+      "title": "Immutability",
+      "id": 68,
+      "ideas": {
+        "2": {
+          "title": "Functional",
+          "id": 4,
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Clojure",
+              "id": 3,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "lein",
+                  "id": 49
+                }
+              }
+            },
+            "2": {
+              "title": "Erlang",
+              "id": 65
+            }
+          }
+        },
+        "3": {
+          "title": "Event Sourcing",
+          "id": 80
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "-14": {
+      "title": "Cloud",
+      "id": 55,
+      "ideas": {
+        "1": {
+          "title": "Heroku",
+          "id": 56
+        },
+        "2": {
+          "title": "AWS",
+          "id": 57
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "-16": {
+      "title": "Web",
+      "id": 19,
+      "ideas": {
+        "1": {
+          "title": "Coffeescript",
+          "id": 20,
+          "ideas": {}
+        },
+        "2": {
+          "title": "SASS",
+          "id": 22
+        },
+        "3": {
+          "title": "HTML5",
+          "id": 24,
+          "ideas": {
+            "1": {
+              "title": "Twitter Bootstrap",
+              "id": 23
+            },
+            "2": {
+              "title": "Boilerplate",
+              "id": 25,
+              "ideas": {
+                "1": {
+                  "title": "320 and up",
+                  "id": 26
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "title": "Angular",
+          "id": 58
+        },
+        "5": {
+          "title": "Backbone",
+          "id": 59
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        },
+        "position": [
+          343,
+          405,
+          2
+        ]
+      }
+    },
+    "-10.828125": {
+      "title": "Service Orientation",
+      "id": 7,
+      "ideas": {
+        "1": {
+          "title": "Rest",
+          "id": 8
+        },
+        "2": {
+          "title": "SOA",
+          "id": 9
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "-26": {
+      "title": "Databases",
+      "id": 10,
+      "ideas": {
+        "1": {
+          "title": "Riak",
+          "id": 11,
+          "ideas": {}
+        },
+        "2": {
+          "title": "Neo4J",
+          "id": 13
+        },
+        "3": {
+          "title": "Redis",
+          "id": 14
+        },
+        "4": {
+          "title": "CouchDB",
+          "id": 15
+        },
+        "5": {
+          "title": "Postgresql",
+          "id": 16
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "-11.853515625": {
+      "title": "JVM",
+      "id": 2,
+      "ideas": {},
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "-9.625": {
+      "title": "Security",
+      "id": 77,
+      "ideas": {
+        "1": {
+          "title": "Oauth",
+          "id": 70,
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        }
+      }
+    },
+    "10.375": {
+      "title": "Agile / Lean",
+      "id": 27,
+      "ideas": {
+        "3": {
+          "title": "Lean transformation",
+          "id": 30,
+          "ideas": {
+            "1": {
+              "title": "Prioritisation / Cost of Delay",
+              "id": 34,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "2": {
+              "title": "WIP",
+              "id": 35,
+              "ideas": {
+                "1": {
+                  "title": "Single piece flow",
+                  "id": 29,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "3": {
+              "title": "Kaizen",
+              "id": 36
+            }
+          }
+        },
+        "4": {
+          "title": "Lean startup",
+          "id": 31
+        },
+        "5": {
+          "title": "TDD",
+          "id": 37,
+          "ideas": {
+            "1": {
+              "title": "GOOS / Classicist",
+              "id": 38
+            },
+            "2": {
+              "title": "BDD",
+              "id": 28,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "title": "Culture",
+          "id": 50,
+          "ideas": {
+            "1": {
+              "title": "Empowerment",
+              "id": 51
+            },
+            "2": {
+              "title": "Apprenticeships",
+              "id": 60
+            },
+            "3": {
+              "title": "DevOps",
+              "id": 71
+            },
+            "4": {
+              "title": "Dev in Test",
+              "id": 72
+            }
+          }
+        },
+        "7": {
+          "title": "Pairing",
+          "id": 66,
+          "ideas": {
+            "1": {
+              "title": "Remote pairing with tmux",
+              "id": 67
+            }
+          }
+        },
+        "8": {
+          "title": "Metrics",
+          "id": 76
+        }
+      }
+    },
+    "-12.5": {
+      "title": "Languages",
+      "id": 40,
+      "ideas": {},
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        },
+        "position": [
+          778,
+          -65,
+          1
+        ]
+      }
+    },
+    "-11.267578125": {
+      "title": "Object Orientation",
+      "id": 74,
+      "ideas": {
+        "1": {
+          "title": "Ruby",
+          "id": 39,
+          "ideas": {
+            "1": {
+              "title": "Cucumber",
+              "id": 52
+            },
+            "2": {
+              "title": "RSpec",
+              "id": 53,
+              "ideas": {}
+            },
+            "3": {
+              "title": "Metaprogramming",
+              "id": 54,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "4": {
+              "title": "Rails",
+              "id": 61,
+              "ideas": {
+                "1": {
+                  "title": "Hexagonal Rails",
+                  "id": 63
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            },
+            "position": [
+              306,
+              -125,
+              1
+            ]
+          }
+        },
+        "3": {
+          "title": "C#",
+          "id": 75
+        },
+        "4": {
+          "title": "Groovy",
+          "id": 46,
+          "ideas": {
+            "1": {
+              "title": "Grails",
+              "id": 47
+            },
+            "2": {
+              "title": "Gradle",
+              "id": 48
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "3.5": {
+          "title": "Java",
+          "id": 44,
+          "ideas": {
+            "1": {
+              "title": "Spring",
+              "id": 43,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "2": {
+              "title": "Camel",
+              "id": 45
+            },
+            "3": {
+              "title": "Hibernate",
+              "id": 64
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "-13.5": {
+      "title": "Deployment",
+      "id": 78,
+      "ideas": {
+        "1": {
+          "title": "Phoenix servers",
+          "id": 69,
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "2": {
+          "title": "Scripting",
+          "id": 79
+        }
+      }
+    },
+    "-13.25": {
+      "title": "CQRS",
+      "id": 42,
+      "ideas": {
+        "1": {
+          "title": "RabbitMQ",
+          "id": 73
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    }
+  },
+  "links": [
+    {
+      "ideaIdFrom": 17,
+      "ideaIdTo": 10,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 39,
+      "ideaIdTo": 4,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 55,
+      "ideaIdTo": 42,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 17,
+      "ideaIdTo": 76,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 40,
+      "ideaIdTo": 65,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 40,
+      "ideaIdTo": 3,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 40,
+      "ideaIdTo": 75,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 40,
+      "ideaIdTo": 44,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 40,
+      "ideaIdTo": 39,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 40,
+      "ideaIdTo": 20,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 40,
+      "ideaIdTo": 22,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 42,
+      "ideaIdTo": 80,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 44,
+      "ideaIdTo": 2,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 46,
+      "ideaIdTo": 2,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    }
+  ]
+}
